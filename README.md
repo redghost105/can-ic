@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MechanicOnDemand
 
 A web application that connects car owners with mechanics, providing a convenient solution for car repair and maintenance needs.
@@ -137,3 +138,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Stripe](https://stripe.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
+=======
+# can-ic
+mechanic on demand
+>>>>>>> 869c29537a73683946d8198fa14e2ae1a8e3235e
